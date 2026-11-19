@@ -1,0 +1,6 @@
+product_id,name,category,price,stock
+P001,Buku Tulis,Alat Tulis,5000.0,10
+P002,Pulpen,Alat Tulis,3000.0,20
+P003,Botol Minum,Aksesori,15000.0,5
+P004,Tas Ransel,Aksesori,125000.0,3
+P005,Penggaris,Alat Tulis,4000.0,0
